@@ -10,6 +10,7 @@ using System.Windows.Forms;
 
 namespace ClipCSV
 {
+
     static class ClipboardHelpers
     {
         public static void CopyHtml(string html)
